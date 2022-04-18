@@ -1,3 +1,10 @@
 
 #+include: other.org
 * this is a readme
+
+
+#+begin_src dot
+graph {
+A -- B
+}
+#+end_src

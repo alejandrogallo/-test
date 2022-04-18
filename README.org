@@ -8,3 +8,9 @@ graph {
 A -- B
 }
 #+end_src
+
+#+begin_src mermaid
+graph TD
+  A -> B
+#+end_src
+

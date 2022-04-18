@@ -11,6 +11,6 @@ A -- B
 
 #+begin_src mermaid
 graph TD
-  A -> B
+  A --> B
 #+end_src
 
